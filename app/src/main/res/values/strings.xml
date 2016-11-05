@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Puzzle</string>
+	<string name="finish">The puzzle is complete. Please select a new picture from the menu to start again.</string>
+	<string name="restart">Restart</string>
+	<string name="picture">Select new picture</string>
+	<string name="difficulty">Select difficulty</string>
+
+</resources>
